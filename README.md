@@ -53,7 +53,7 @@ SSH key authentication over password-based login
 
 📂 Folder Structure
 ├── Azr-Project-Diagram/   # Network architecture visuals
-├── template/              # Azure portal configurations (Bicep)
+├── main/              # Azure portal configurations (Bicep)
 ├── README.md/             # Project overview and documentation
 
 💡 Motivation
