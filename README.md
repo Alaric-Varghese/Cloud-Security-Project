@@ -52,9 +52,9 @@ SSH key authentication over password-based login
 📁 All key infrastructure screenshots and architecture diagrams are available in the /diagrams and /screenshots folders.
 
 📂 Folder Structure
-├── diagrams/         # Network architecture visuals
-├── template/         # Azure portal configurations (Bicep)
-├── README.md         # Project overview and documentation
+├── Azr-Project-Diagram/   # Network architecture visuals
+├── template/              # Azure portal configurations (Bicep)
+├── README.md/             # Project overview and documentation
 
 💡 Motivation
 This project was built to reinforce hands-on knowledge of cloud security best practices and simulate how enterprises build secure, scalable environments in the cloud. It also serves as a portfolio artifact to demonstrate applied security engineering in Azure.
